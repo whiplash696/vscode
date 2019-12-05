@@ -50,6 +50,10 @@
 	min-width: 14px; /* minimum size of icons */
 }
 
+.scm-viewlet .monaco-list-row > .scm-provider > .monaco-action-bar .action-item:first-of-type {
+	min-width: 28px;
+}
+
 .scm-viewlet .monaco-list-row > .scm-provider > .monaco-action-bar .action-label .codicon {
 	font-size: 14px;
 	vertical-align: sub;
